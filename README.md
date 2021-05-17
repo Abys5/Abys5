@@ -9,7 +9,7 @@ Hi there, I'm **Abyss**, a **Cyber Security Apprentice** 🚀 from the UK.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Cyber Security Apprentice with a Telecommunication working with Forensics and Programming Applications;
+- 👨🏽‍💻 I’m currently an Cyber Security Apprentice with a Telecommunication Company working with Forensics and Programming Applications;
 - 🌱 I’m currently learning NextJS; 
 - 🤔 My interests are Cyber Security, Secure Coding and Authentication Architecture;
 - 💼 I’m pursuing a Level 6 Degree Apprenticeship in Cyber Security;
