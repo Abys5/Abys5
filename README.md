@@ -1,8 +1,5 @@
 ### Hey 👋, I'm Abyss
 
-<br />
-<br />
-
 Hi there, I'm **Abyss**, a **Cyber Security Apprentice** 🚀 from the UK.
 
 **Talking about Personal Stuffs:**
