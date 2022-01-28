@@ -5,8 +5,6 @@
 
 Hi there, I'm **Abyss**, a **Cyber Security Apprentice** 🚀 from the UK.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Cyber Security Apprentice with a Telecommunication Company working with Forensics and Programming Applications;
